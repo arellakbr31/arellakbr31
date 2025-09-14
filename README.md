@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi Guys, aku Arell 😉
+
+![Arell Akbar](img/github.png) 
 
 <!--
 **arellakbr31/arellakbr31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
